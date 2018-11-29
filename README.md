@@ -15,6 +15,7 @@ If you run it wihout parameters you will get some kind of help
 Output:
 
 `cmd
+
 cscript mountsmb.vbs
 Microsoft (R) Windows Script Host Version 5.812
 Copyright (C) Microsoft Corporation. All rights reserved.
@@ -44,5 +45,5 @@ Parameters:
     
     -remoteUser - user allowed to access this share;
     
-    -remotePass - password for remote user;
+    -remotePass - password for remote user.
 

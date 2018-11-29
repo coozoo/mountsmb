@@ -14,7 +14,7 @@ If you run it wihout parameters you will get some kind of help
 
 Output:
 
-`bat
+```bat
 
 cscript mountsmb.vbs
 Microsoft (R) Windows Script Host Version 5.812
@@ -26,7 +26,7 @@ Incorrect Arguments
          mountsmb.vbs -mount -localDest f: -netShare \\127.0.0.1\c$\myfolder -isPerm TRUE -remoteUser weider -remotePass dart
       unmount
          mountsmb.vbs -unmount -localDest f:
-`
+```
 
 Parameters:
 

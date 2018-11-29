@@ -14,7 +14,7 @@ If you run it wihout parameters you will get some kind of help
 
 Output:
 
-`cmd
+`bat
 
 cscript mountsmb.vbs
 Microsoft (R) Windows Script Host Version 5.812

@@ -46,4 +46,10 @@ Parameters:
     -remoteUser - user allowed to access this share;
     
     -remotePass - password for remote user.
+    
+  So to mount drive that accessible to everyone you can run:
+   `cscript mountsmb.vbs -mount -localDest f: -netShare \\127.0.0.1\c$\myfolder`
+  to unmount it:
+   `cscript mountsmb.vbs -unmount -localDest f:`
+  
 

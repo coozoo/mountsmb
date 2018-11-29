@@ -30,13 +30,13 @@ Incorrect Arguments
 
 Parameters:
 
-  -mount - use to mount;
+   -mount - use to mount;
   
-  -unmount - use to unmount;
+   -unmount - use to unmount;
   
-  -localDest - local drive letter;
+   -localDest - local drive letter;
   
-  -netShare - remote shared folder;
+   -netShare - remote shared folder;
   
   
   Optional:

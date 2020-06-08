@@ -3,7 +3,7 @@ Windows VBS mounter for smb shares
 
 # Intro
 Suppose everyone has such a problem like some command line tools not able to work with remote windows shares.
-So to make them work you nedd to map this share to some windows drive letter.
+So to make them work you need to map this share to some windows drive letter.
 Actually this script made for this simple commandline interface.
 
 # How to use

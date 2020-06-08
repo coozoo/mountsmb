@@ -30,21 +30,16 @@ Incorrect Arguments
 
 Parameters:
 
-   -mount - use to mount;
-  
-   -unmount - use to unmount;
-  
-   -localDest - local drive letter;
-  
-   -netShare - remote shared folder;
+    -mount - use to mount;
+    -unmount - use to unmount;
+    -localDest - local drive letter;
+    -netShare - remote shared folder.
   
   
   Optional:
   
     -isPerm - make it permanent, means windows will remount it after reboot, default is FALSE;
-    
     -remoteUser - user allowed to access this share;
-    
     -remotePass - password for remote user.
     
   So to mount drive that accessible to everyone you can run:
